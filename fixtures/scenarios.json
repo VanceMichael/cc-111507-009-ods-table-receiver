@@ -1,0 +1,50 @@
+[
+  {
+    "id": "standard",
+    "entry": "warehouse.ods",
+    "version": "source-v1",
+    "resources": [
+      "warehouse.ods",
+      "merged.ods",
+      "no-cache.ods"
+    ],
+    "behavior": "standard",
+    "description": "仓库开放文档台账：standard"
+  },
+  {
+    "id": "merged",
+    "entry": "merged.ods",
+    "version": "source-v1",
+    "resources": [
+      "warehouse.ods",
+      "merged.ods",
+      "no-cache.ods"
+    ],
+    "behavior": "merged",
+    "description": "仓库开放文档台账：merged"
+  },
+  {
+    "id": "no-cache",
+    "entry": "no-cache.ods",
+    "version": "source-v1",
+    "resources": [
+      "warehouse.ods",
+      "merged.ods",
+      "no-cache.ods"
+    ],
+    "behavior": "no-cache",
+    "description": "仓库开放文档台账：no-cache"
+  },
+  {
+    "id": "large-empty",
+    "entry": "warehouse.ods",
+    "version": "source-v1",
+    "resources": [
+      "warehouse.ods",
+      "merged.ods",
+      "no-cache.ods"
+    ],
+    "behavior": "large-empty",
+    "description": "仓库开放文档台账：large-empty"
+  }
+]
